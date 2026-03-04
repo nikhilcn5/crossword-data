@@ -1,0 +1,12 @@
+{
+  "APPLE": ["Fruit used in pies", "Orchard fruit"],
+  "LASER": ["Device emitting focused light"],
+  "RIVER": ["Large natural water flow"],
+  "STONE": ["Hard mineral material"],
+  "PLANT": ["Living organism that grows in soil"],
+  "TIGER": ["Large striped cat"],
+  "MOUSE": ["Small rodent", "Computer pointing device"],
+  "CLOCK": ["Device that tells time"],
+  "CHAIR": ["Piece of furniture for sitting"],
+  "TABLE": ["Flat furniture surface"]
+}
